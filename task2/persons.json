@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "fname": "mahmoud",
+    "lname": "ragab",
+    "city": "fayoum",
+    "age": "21"
+  },
+  { "id": "2", "fname": "zaki", "lname": "samy", "city": "cairo", "age": "22" },
+  {
+    "id": "3",
+    "fname": "aya",
+    "lname": "gamal",
+    "city": "bni-sweif",
+    "age": "22"
+  },
+  {
+    "id": "7",
+    "fname": "mohamed",
+    "lname": "elshemy",
+    "city": "alex",
+    "age": "22"
+  }
+]
